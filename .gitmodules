@@ -1,0 +1,3 @@
+[submodule "ceopener"]
+	path = ceopener
+	url = https://github.com/HO-0520-IT/ceopener_mod.git
